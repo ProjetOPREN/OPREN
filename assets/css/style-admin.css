@@ -1,0 +1,63 @@
+button{
+	width: 100%;
+
+}
+
+#div-result{
+	width: 100%;
+}
+
+#table-result{
+	width: 100%;
+	text-align:center;
+}
+
+.tr-title{
+	font-weight: bold;
+}
+
+.container-button{
+	width: 33%;
+	display: inline-block;
+}
+
+.container-stat{
+	width:100%;
+}
+
+h1{
+	text-align: center;
+}
+hr{
+	width:100%;
+	border:3px solid gold;
+}
+
+.tr-line{
+	background-color: #D8DFDE;
+}
+
+#p-aucunResult{
+	text-align: center;
+	font-weight: bold;
+}
+
+
+.w3-main{
+	margin-left: 1.2%;
+	margin-right: 1.2%;
+}
+
+.confirm_message{
+	color:white;
+	background-color:#90DFC0;
+	text-align:center;
+	margin-bottom:20px
+}
+
+.error_message{
+	color:white;
+	background-color:#fd542f;
+	text-align:center;
+	margin-bottom:20px
+}

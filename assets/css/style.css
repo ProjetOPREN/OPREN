@@ -1,0 +1,32 @@
+.body_color{
+	background-color:#ffffff;
+}
+
+.primary_color{
+	background-color:#4da6ff;
+}
+
+.title_color{
+	color:#b3d9ff;
+}
+
+.bar{
+	margin-bottom:30px;
+	width:200px;
+	border:5px solid #ffe066;
+}
+
+
+.confirm_message{
+	color:white;
+	background-color:#90DFC0;
+	text-align:center;
+	margin-bottom:20px
+}
+
+.error_message{
+	color:white;
+	background-color:#fd542f;
+	text-align:center;
+	margin-bottom:20px
+}
